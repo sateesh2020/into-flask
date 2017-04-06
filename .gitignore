@@ -1,0 +1,6 @@
+# .gitignore
+
+*.pyc
+instance/
+.DS_Store
+settings.json
