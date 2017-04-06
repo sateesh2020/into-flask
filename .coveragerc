@@ -1,0 +1,6 @@
+# .coveragerc to control coverage.py
+[run]
+source =
+    app/*.py
+    config.py
+    run.py
